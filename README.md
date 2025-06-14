@@ -62,7 +62,7 @@ could always be running a modified version of SSHTron that does exploit the vuln
 in [CVE-2016-0777](https://www.qualys.com/2016/01/14/cve-2016-0777-cve-2016-0778/openssh-cve-2016-0777-cve-2016-0778.txt).
 
 If you haven't yet patched your SSH client, you can follow
-[these instructions](https://www.jacobtomlinson.co.uk/quick%20tip/2016/01/15/fixing-ssh-vulnerability-CVE-2016-0777/) to do so now.
+[these instructions](https://jacobtomlinson.dev/posts/2016/fixing-the-ssh-roaming-vulnerability-cve-2016-0777/) to do so now.
 
 ## License
 
